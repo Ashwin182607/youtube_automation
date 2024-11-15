@@ -1,6 +1,6 @@
 An automated system for creating and uploading chill music videos to YouTube with a modern GUI interface. 
 (NOT A PERFECT PROJECT STILL HAS MY TESTING BITS)
-
+(Note: You can devlop it however you like The project may not be updated frequently due to my current exam schedule, but contributions are still welcome and will be reviewed as time permits!)
 ## Features
 
 - Modern dark-themed GUI interface
@@ -87,10 +87,6 @@ python gui.py
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-
-Note: The project may not be updated frequently due to my current exam schedule, but contributions are still welcome and will be reviewed as time permits!
-
 
 ## License
 
