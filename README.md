@@ -20,7 +20,7 @@ An automated system for creating and uploading chill music videos to YouTube wit
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/Ashwin182607/youtube_automation
 cd youtube_automation
 ```
 
