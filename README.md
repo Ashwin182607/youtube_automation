@@ -3,7 +3,7 @@ An automated system for creating and uploading chill music videos to YouTube wit
 (Note: You can devlop it however you like The project may not be updated frequently due to my current exam schedule, but contributions are still welcome and will be reviewed as time permits!)
 ## Features
 
-- Modern dark-themed GUI interface
+- Modern dark-themed GUI interface(in progress)
 - Video creation with customizable effects:
   - Fade in/out
   - Zoom effects
@@ -12,7 +12,7 @@ An automated system for creating and uploading chill music videos to YouTube wit
   - Vignette
   - Wave effects
 - Direct YouTube upload integration
-- Support for low-end devices
+- Support for low-end devices (because my device can't handle)
 - Background image customization
 - Multiple resolution support (480p, 720p, 1080p)
 
